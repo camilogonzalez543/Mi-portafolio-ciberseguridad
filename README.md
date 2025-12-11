@@ -1,2 +1,2 @@
 # Mi-portafolio-ciberseguridad
-Este es un repositorio orientado a mostrar mi experiencia en en ciberseguridad, especialmente en SIEM. Aquí documento configuraciones, prácticas reales, laboratorios y materiales técnicos que reflejan mis habilidades como N2 SOC
+Soy Juan Camilo González, ingeniero electrónico y de telecomunicaciones con especialización en seguridad de la información y estudios de maestría en ciberseguridad. Administro y analizo entornos SIEM como Splunk y FortiSIEM, realizo búsqueda de vulnerabilidades, threat hunting, monitoreo de eventos y creación de alertas, aportando soluciones que fortalecen la seguridad operativa de las organizaciones.

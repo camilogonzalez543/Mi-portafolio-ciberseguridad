@@ -1,0 +1,5 @@
+## 📊 Ejemplos de consultas Splunk
+### **Top 10 IPs con más eventos**
+```
+index=* | stats count by src_ip | sort - count | head 10
+```

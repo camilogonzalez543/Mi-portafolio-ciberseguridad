@@ -11,3 +11,21 @@ Soy Juan Camilo González, ingeniero electrónico y de telecomunicaciones con es
 - FortiSIEM. \
 - Threat hunting manual y basado en hipótesis. \
 - MITRE ATT&CK.
+
+## 🧰 Habilidades técnicas
+### **SIEM y SOC**
+- Splunk (Search Processing Language, dashboards, alertas, administración). \
+- FortiSIEM. \
+- Threat hunting manual y basado en hipótesis. \
+- MITRE ATT&CK.
+
+## Habilidades Blandas 
+-Trabajo en equipo: colaboro activamente con diferentes niveles del SOC.
+-Voluntad de enseñar: disfruto formando y apoyando a analistas nuevos.
+-Aprendizaje continuo: me mantengo actualizado en nuevas amenazas y técnicas.
+-Pensamiento analítico: correlación de eventos e interpretación de incidentes complejos.
+
+## Motivación en Ciberseguridad
+Lo que más me interesa de la ciberseguridad es la oportunidad de proteger sistemas críticos, anticipar amenazas mediante threat hunting y aportar soluciones que permitan a las organizaciones operar con confianza. Disfruto especialmente del análisis en SIEM (Splunk, FortiSIEM), la detección temprana de vulnerabilidades y el aprendizaje continuo para adaptarme a un entorno que evoluciona constantemente.
+
+También valoro el trabajo en equipo, compartir conocimientos con mis compañeros y aprender de ellos. Me motiva enseñar lo que sé, formar a otros analistas y crecer juntos.
